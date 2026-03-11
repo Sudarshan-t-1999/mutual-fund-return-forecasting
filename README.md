@@ -1,10 +1,10 @@
-# Mutual_Fund_Analysis
+# Machine Learning System for Mutual Fund Return Forecasting
 
 <a target="_blank" href="https://cookiecutter-data-science.drivendata.org/">
     <img src="https://img.shields.io/badge/CCDS-Project%20template-328F97?logo=cookiecutter" />
 </a>
 
-Machine learning project to predict the returns of mutual funds
+Predicting forward rolling returns of mutual funds using engineered financial time-series features, benchmark indices, and machine learning models.
 
 ## Project Organization
 
