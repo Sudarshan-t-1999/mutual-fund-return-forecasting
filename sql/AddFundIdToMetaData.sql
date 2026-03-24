@@ -1,0 +1,2 @@
+ALTER TABLE dbo.Fund_Metadata
+ADD FundID INT IDENTITY(1,1);

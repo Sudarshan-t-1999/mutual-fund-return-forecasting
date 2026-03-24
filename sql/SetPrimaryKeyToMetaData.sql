@@ -1,0 +1,2 @@
+ALTER TABLE dbo.Fund_Metadata
+ADD CONSTRAINT PK_FundMetadata PRIMARY KEY (FundID);
