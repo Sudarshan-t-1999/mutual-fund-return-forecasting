@@ -155,6 +155,7 @@ Input:
 
 Output:
 
+```json
 {
   "fund_A": {
     "name": "Motilal Oswal Midcap Fund",
@@ -173,7 +174,7 @@ Output:
     "excess_return_vs_benchmark": 0.06
   }
 }
-
+```
 ---
 
 ## Dashboard (Planned)
