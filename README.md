@@ -40,7 +40,7 @@ This project reframes the problem as:
 - Individual investor comparing mutual funds
 
 **Decision supported:**
-- Which fund to invest in (Fund A vs Fund B)
+- Which fund to invest in (Motilal Oswal Midcap Fund vs Edelweiss Midcap Fund)
 
 ---
 
